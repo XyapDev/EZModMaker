@@ -12,3 +12,6 @@ and it's very buggy like ~~Cyberpunk 2077~~ so don't be suprised if you end up w
 
 
 ## thats all have fun using this ~~Cyberpunk 2077 Clone!~~
+
+
+### based on ZealotTormunds's Character Manager

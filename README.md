@@ -7,7 +7,7 @@ it was made for beginners to learn modding and (maybe) quick mods for any mod cr
 
 
 and sometimes it even corrupts the file so don't forget to backup
-and it's very buggy like ~~Cyberpunk 2077~~ so don't be suprised if you end up with a cursed mod 
+and it's very buggy like ~~Cyberpunk 2077~~ so don't be surprised if you end up with a cursed mod 
 
 
 

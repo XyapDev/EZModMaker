@@ -14,3 +14,9 @@ and it's very buggy like ~~Cyberpunk 2077~~ so don't be surprised if you end up 
 ## thats all have fun using this ~~Cyberpunk 2077 Clone!~~
 
 ### based on ZealotTormunds's Character Manager
+
+
+# DEVLOG
+- Added Replace meshes
+- Added replace model
+- Added Fix textures 
